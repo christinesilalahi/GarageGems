@@ -1,4 +1,46 @@
-<<<<<<< HEAD
+## Garage Gems
+
+**GARAGE GEMS** is a platform where users can buy and sell recycled or second-hand items that are still in good condition, such as clothing, furniture, and more.
+
+Indonesia is the second-largest contributor to waste in the world, after China. Therefore, we must be more aware of this issue. One of the solutions is to sell recycled or second-hand items.
+Many used goods still hold value and can be repurposed or recycled into new items. This effort not only helps reduce waste but also minimizes carbon footprints.
+Therefore, **GarageGems** provides a platform for those looking to expand their market and contribute to sustainability through the resale of these items.
+
+The features available on the GarageGems website are:
+
+**User Page**
+- Register: Create a new user account.
+- Login: Access your account.
+- Homepage: Browse featured categories and popular products.
+- Category: Find products by category for easier navigation.
+- Popular Product: Discover trending and highly-rated items.
+- Search Product: Quickly search for desired items.
+- Product Detail: View detailed information on a specific product.
+- Cart Page: Review items added to the cart before purchasing.
+- Checkout Page: Enter payment details for seamless checkout.
+- Profile: View and update your personal profile.
+- My Orders: Track current and past orders, along with their statuses.
+- Message: Reach out with questions, suggestions, or concerns via direct messaging.
+
+**Admin Page**
+- Seller Registration: Apply to become a seller.
+- Dashboard: Manage user orders and track sales.
+- Insert Product: Add new products for sale.
+- Update Product: Modify product details to keep listings accurate and up-to-date.
+
+**Notes:** To become a seller, users must first register as a user.
+
+**GarageGems** is a collaborative project developed by my team and me as part of our **Software Engineering** course.  In this project, we divided tasks among team members to leverage our individual strengths and ensure efficient development. I chose to focus on the backend development, where I worked on creating and managing the server, database, and APIs to support the functionality of the website. We utilized the **Agile development methodology**, allowing us to work iteratively and adapt to feedback and changing requirements throughout the process. 
+
+Below is the list of team members:
+- Wanda Ayu Hafidzoh (team leader)
+- Christine Irene Silalahi
+- Inas Luluah Asri
+- Rogate Agustina Hutapea
+- Vania Nathania Azrai
+
+  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
