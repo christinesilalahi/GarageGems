@@ -4,7 +4,7 @@
 
 Indonesia is the second-largest contributor to waste in the world, after China. Therefore, we must be more aware of this issue. One of the solutions is to sell recycled or second-hand items.
 Many used goods still hold value and can be repurposed or recycled into new items. This effort not only helps reduce waste but also minimizes carbon footprints.
-Therefore, **GarageGems** provides a platform for those looking to expand their market and contribute to sustainability through the resale of these items.
+**GarageGems** aligns with **Sustainable Development Goal 12 (Responsible Consumption and Production)** by promoting the resale of items, reducing waste, and encouraging more sustainable consumer practices. It provides a platform for those looking to expand their market and contribute to sustainability through the resale of these items.
 
 The features available on the GarageGems website are:
 
